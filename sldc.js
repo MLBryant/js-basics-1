@@ -5,15 +5,22 @@
     Reorganize the following steps of the Software Development Lifecycle to be in their correct order.
 */
 
+// Planning
 // Analysis of Requirements
 // Design
 // Implementation
-// Maintain
-// Planning
 // Testing & Integration
+// Maintain
 
 
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable for each of the above steps of the Software Development Lifecycle and set the values of each variable to a definition of the step.
 */
+
+let firstStep = 'Planning';
+let secondStep = 'Analysis of Requirements';
+let thirdStep = 'Design';
+let fourthStep = 'Implementation';
+let fifthStep = 'Testing & Integration';
+let sixthStep = 'Maintain';
