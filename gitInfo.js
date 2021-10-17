@@ -19,7 +19,7 @@ let gitDefinition = 'Git is a version control software that allows developers to
 */
 
 //CODE HERE
-let gitHubDefinition = 'GitHub is a webservice where developers can upload their git repositories to save their code outside of their local machine and allow team members to access the repositories';
+let gitHubDefinition = 'GitHub is a web service where developers can upload their git repositories to save their code outside of their local machine and allow team members to access the repositories';
 
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
@@ -46,7 +46,7 @@ let init = {description: 'Initializes a git repository in the current directory'
 */
 
 //CODE HERE
-let clone = {description: 'clones a git repository into the current directory',
+let clone = {description: 'clones a git repository from a URL into the current directory',
              code: 'git clone (URL)'};
 
 //////////////////PROBLEM 5////////////////////
@@ -56,7 +56,7 @@ let clone = {description: 'clones a git repository into the current directory',
 */
 
 //CODE HERE
-let status = {description: 'Checks the contents of the local repository against the repository in a web hosting service such as GitHub',
+let status = {description: 'Checks changes in the contents of the local repository against the repository in a web hosting service such as GitHub',
               code: 'git status'};
 
 //////////////////PROBLEM 6////////////////////
